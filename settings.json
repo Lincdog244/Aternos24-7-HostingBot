@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Linc1264837.aternos.me:40101",
+    "ip": "Linc1264837.aternos.me",
     "port": 40101,
     "version": "",
     "try-creative": false
